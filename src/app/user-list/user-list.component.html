@@ -1,0 +1,7 @@
+<div class="list-items">
+  <ul class="ul">
+    <li *ngFor="let user of usersData" [routerLink]="user.id">
+      {{ user.id }} - {{ user.username }}
+    </li>
+  </ul>
+</div>

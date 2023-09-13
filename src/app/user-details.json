@@ -1,0 +1,39 @@
+{
+    "userDetails":[
+         {
+        "id" : "1",
+         "username":"gamer777",
+         "firstname": "john",
+         "lastname": "Doe",
+         "aboutme": "Im John Doe"
+        },
+        {
+        "id" : "2",
+         "username":"nikusha00",
+          "firstname": "nikusha",
+         "lastname": "Chkoidze",
+         "aboutme": "Im Nikusha Chkoidze"
+        },
+        {
+            "id" : "3",
+            "username": "shikamarunara",
+            "firstname": "Shikamaru",
+            "lastname": "Nara",
+            "aboutme": "Im Shikamaru"
+        },
+        {
+            "id" : "4",
+            "username": "tobi33",
+            "firstname": "Obito",
+            "lastname": "Uchiha",
+            "aboutme": "Im Obito Uchiha"
+        },
+        {
+            "id" : "5",
+            "username": "uchihamadara",
+            "firstname": "Madara",
+            "lastname": "Uchiha",
+            "aboutme": "Im Madara Uchiha"
+        }
+    ]
+}

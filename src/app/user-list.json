@@ -1,0 +1,25 @@
+{
+   "users": [
+        {
+        "id" : "1",
+         "username":"gamer777"
+        },
+        {
+        "id" : "2",
+         "username":"nikusha00"
+        },
+        {
+            "id" : "3",
+            "username": "shikamarunara"
+        },
+        {
+            "id" : "4",
+            "username": "tobi33"
+        },
+        {
+            "id" : "5",
+            "username": "uchihamadara"
+        }
+    ]
+
+}
